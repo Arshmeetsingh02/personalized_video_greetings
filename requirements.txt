@@ -1,0 +1,15 @@
+# Core deps
+TTS
+soundfile
+
+# Wav2Lip deps with updated versions
+opencv-python
+opencv-contrib-python
+torch
+torchvision
+numpy
+numba
+scipy
+matplotlib
+pillow
+tqdm
